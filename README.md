@@ -26,4 +26,3 @@
 - **Contact App** – Flutter + SQLite application  
 - **Propal2** – Mobile application project
 - and more...
-- Self-learning and adaptability  
