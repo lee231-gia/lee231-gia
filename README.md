@@ -24,13 +24,6 @@
 
 ## Projects
 - **Contact App** – Flutter + SQLite application  
-- **Propal2** – Mobile application project  
-
----
-
-## 🧠 Other Skills
-- Problem-solving  
-- Debugging  
-- UI/UX fundamentals  
-- API integration  
+- **Propal2** – Mobile application project
+- and more...
 - Self-learning and adaptability  
